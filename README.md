@@ -75,9 +75,9 @@ Este projeto exemplifica a estrutura de um **Sistema de Monitoramento Climático
 
 ## 📌 Requisitos Adicionais (Estrutura e DAO)
 - **DAOs:**  
-  - `EstacaoDAO`  
-  - `TipoClimaDAO`  
-  - `RegistroDAO`  
+  - `EstacoesDeMedicaoDAO`  
+  - `EstadoDoTempoDAO`  
+  - `RegistroClimaticoDAO`  
 
 Cada DAO encapsula as operações **CRUD** para sua respectiva entidade, isolando a lógica de persistência (**LocalStorage ou MongoDB**) do restante da aplicação React.
 
