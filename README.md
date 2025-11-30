@@ -21,7 +21,7 @@ Este projeto exemplifica a estrutura de um **Sistema de Monitoramento Climático
 
 ---
 
-## ☁️ CRUD Tipos de Clima
+## ☁️ CRUD Estado do Tempo
 **Entidade:** Categorias para classificar a condição observada.
 
 **Campos:**
