@@ -101,3 +101,5 @@ Construir um sistema modular e escalável para monitoramento climático, permiti
 - Registro de medições em tempo real
 - Relatórios agregados para análise de tendências
 
+
+npm install antd @ant-design/icons react-router-dom leaflet react-leaflet
