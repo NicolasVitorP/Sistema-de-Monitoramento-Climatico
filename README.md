@@ -13,7 +13,7 @@ Aplicação FrontEnd desenvolvida em **ReactJS** para gerenciamento de **Estaç�
 ## 📦 Repositório do Projeto
 
 - 🔗 **FrontEnd (ReactJS):**  
-  https://github.com/seu-usuario/Sistema-De-Monitoramento-Climatico-ClimaMaster
+  https://github.com/NicolasVitorP/Sistema-De-Monitoramento-Climatico-ClimaMaster-
 
 ---
 
@@ -98,24 +98,29 @@ O projeto contempla um sistema completo de monitoramento climático com:
 As telas abaixo ilustram as principais funcionalidades do sistema.
 
 ### Tela 1 — Dashboard Inicial
-> 📸 *Adicione aqui uma captura de tela da tela inicial*  
-> Exemplo: `![Dashboard](./screenshots/tela1_dashboard.png)`
+
+<img width="1918" height="940" alt="Captura de tela 2025-12-19 153340" src="https://github.com/user-attachments/assets/63da8092-9665-4e11-aca6-0e6337f77452" />
+
 
 ### Tela 2 — Cadastro de Estação de Medição
-> 📸 *Adicione aqui uma captura de tela do formulário de cadastro de estações*  
-> Exemplo: `![Cadastro Estação](./screenshots/tela2_cadastro_estacao.png)`
+
+<img width="1918" height="940" alt="Captura de tela 2025-12-19 153424" src="https://github.com/user-attachments/assets/175e23d7-c4ba-4c2a-8550-5f47d97deb95" />
+
 
 ### Tela 3 — Listagem de Estações
-> 📸 *Adicione aqui uma captura de tela da lista com as estações cadastradas*  
-> Exemplo: `![Lista Estações](./screenshots/tela3_lista_estacoes.png)`
+
+<img width="1919" height="942" alt="Captura de tela 2025-12-19 153456" src="https://github.com/user-attachments/assets/39353f08-37bb-4410-9d58-32e4b921d6d7" />
+
 
 ### Tela 4 — Mapa de Estações
-> 📸 *Adicione aqui uma captura de tela do mapa interativo com marcadores*  
-> Exemplo: `![Mapa](./screenshots/tela4_mapa_estacoes.png)`
+
+<img width="1919" height="949" alt="Captura de tela 2025-12-19 153524" src="https://github.com/user-attachments/assets/a848fb50-6f91-4b04-8b14-375cae001b88" />
+
 
 ### Tela 5 — Relatório Combinado
-> 📸 *Adicione aqui uma captura de tela do relatório com médias climáticas*  
-> Exemplo: `![Relatório](./screenshots/tela5_relatorio.png)`
+
+<img width="1919" height="945" alt="Captura de tela 2025-12-19 153547" src="https://github.com/user-attachments/assets/8b6f5697-1f9e-457d-b1b4-c95b68874c83" />
+
 
 ---
 
@@ -125,10 +130,12 @@ As telas abaixo ilustram as principais funcionalidades do sistema.
 
 O diagrama de classes abaixo representa o modelo conceitual utilizado no projeto, mostrando as entidades e seus relacionamentos.
 
-> 📊 *Adicione aqui o diagrama UML do sistema*  
-> Exemplo: `![Diagrama de Classes](./docs/diagrama_classes.png)`
-> 
-> **Sugestão:** Use ferramentas como [PlantUML](https://plantuml.com/), [Mermaid](https://mermaid.js.org/), ou [Draw.io](https://draw.io) para criar o diagrama.
+  <img width="886" height="693" alt="uml" src="https://github.com/user-attachments/assets/dcd0d61c-47b4-452e-8d2f-cb8ebc7217e0" />
+
+
+
+>  O diagrama foi modelado utilizando **PlantUML**
+
 
 ---
 
