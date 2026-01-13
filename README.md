@@ -98,29 +98,50 @@ O projeto contempla um sistema completo de monitoramento climático com:
 
 As telas abaixo ilustram as principais funcionalidades do sistema.
 
-### Tela 1 — Dashboard Inicial
+### Tela 1 — Dashboard Inicial (Estados do Tempo)
 
-<img width="1918" height="940" alt="Captura de tela 2025-12-19 153340" src="https://github.com/user-attachments/assets/63da8092-9665-4e11-aca6-0e6337f77452" />
+<img width="1919" height="871" alt="Captura de tela 2026-01-13 162601" src="https://github.com/user-attachments/assets/2889dda7-3da7-48aa-98d7-569188449ab0" />
 
+### Tela 2 — Cadastro de Estado do Tempo
 
-### Tela 2 — Cadastro de Estação de Medição
-
-<img width="1918" height="940" alt="Captura de tela 2025-12-19 153424" src="https://github.com/user-attachments/assets/175e23d7-c4ba-4c2a-8550-5f47d97deb95" />
-
-
-### Tela 3 — Listagem de Estações
-
-<img width="1919" height="942" alt="Captura de tela 2025-12-19 153456" src="https://github.com/user-attachments/assets/39353f08-37bb-4410-9d58-32e4b921d6d7" />
+<img width="1919" height="868" alt="Captura de tela 2026-01-13 162723" src="https://github.com/user-attachments/assets/c84a6c0b-d96b-404c-8f26-eb0b7807809e" />
 
 
-### Tela 4 — Mapa de Estações
+### Tela 3 — Estações de Medição
 
-<img width="1919" height="949" alt="Captura de tela 2025-12-19 153524" src="https://github.com/user-attachments/assets/a848fb50-6f91-4b04-8b14-375cae001b88" />
+<img width="1919" height="874" alt="Captura de tela 2026-01-13 162620" src="https://github.com/user-attachments/assets/66f66efb-8d03-4b37-bb14-9042a5ccf045" />
+
+### Tela 4 — Cadastro de Estação de Medição
+<img width="1919" height="870" alt="Captura de tela 2026-01-13 162740" src="https://github.com/user-attachments/assets/7c6e0076-f008-450a-a441-172dd114f7ca" />
+
+### Tela 5 — Registros Climáticos
 
 
-### Tela 5 — Relatório Combinado
+<img width="1910" height="817" alt="Captura de tela 2026-01-13 162631" src="https://github.com/user-attachments/assets/816db531-2c92-4d38-8b0e-86a4bc690df9" />
 
-<img width="1919" height="945" alt="Captura de tela 2025-12-19 153547" src="https://github.com/user-attachments/assets/8b6f5697-1f9e-457d-b1b4-c95b68874c83" />
+
+### Tela 6 — Cadastro de Registros Climáticos
+
+<img width="1919" height="872" alt="Captura de tela 2026-01-13 162755" src="https://github.com/user-attachments/assets/9498ea1c-c0f8-4dd5-9e9a-5f37c5ee7ca0" />
+
+### Tela 7 — Relatório Combinado
+
+
+<img width="1919" height="873" alt="Captura de tela 2026-01-13 162704" src="https://github.com/user-attachments/assets/9fe88dea-6b60-4aa7-8a67-c0079cc14be9" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
