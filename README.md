@@ -1,8 +1,16 @@
+
+
 # 🌦 Projeto FrontEnd — Sistema de Monitoramento Climático (ClimaMaster)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4f791b28-7538-45a8-a2b1-1446eb646050" width="180" alt="ClimaMaster Logo" />
+  <h1>ClimaMaster</h1>
+
+ 
+</div>
 
 Aplicação FrontEnd desenvolvida em **ReactJS** para gerenciamento de **Estações de Medição**, **Estados do Tempo** e **Registros Climáticos**, implementando **CRUDs completos**, **relacionamentos entre entidades** e **relatórios combinados** para análise de dados meteorológicos.
 
----
 
 ## 🌐 Deploy da Aplicação
 
